@@ -3,20 +3,20 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Anh Nguyen
-    tagline: Vocational Education Trainer | Lead Educator
+    name: Nicholas Savanjika
+    tagline: Student
     avatar: knockout.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: a.nguyen@kangan.edu.au
+    email: 100638907@student.kangan.edu.au
     timezone: AEDT / Australian Eastern Daylight Savings
     citizenship: Australian citizen
-    linkedin: anh-nguyen-99b82baa
-    github: a-nguyen-kangan
+    linkedin: nicholas-savanjika-43ab6219a
+    github: NicholasSavanjika
 
     languages:
       title: Languages
@@ -24,68 +24,38 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: Vietnamese
-          level: Basic
-
     interests:
       title: Interests
       info:
-        - item: Judo
+        - item: Gaming
           link:
 
-        - item: MMA
+        - item: Building PCs
           link:
 
-        - item: Tennis
+        - item: Something Else
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Experienced Vocational Education Trainer and course Co-ordinator
-      Experienced corporate trainer
-      Experienced Application Developer
 
 education:
     title: Education
     info:
-      - degree: Bachelor of Computer Science
-        university: RMIT University
-        time: 1999 - 2002
-        details: |
-          Majors
-            - AI
-            - Cryptography
-      - degree: Diploma in Vocational Education Training
-        university: Northern Melbourne Institute of TAFE
-        time: 2009
-      - degree: CIV in Training and Assessment
-        university: Swinburne University
-        time: 2012
+      - degree: CII in Computer Assembly and Repair
+        university: Melbourne Polytechnic
+        time: 2019
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Educator
-        time: 20122 - Present
-        company: Bendigo Kangan Institute
+      - role: Field Services Engineer
+        time: April 2017
+        company: Austin Health
         details: |
-          Cremorne, Victoria, Australia
-      - role: Vocational Education Trainer, Assessor and Co-ordinator
-        time: 2011 - 2022
-        company: Swinburne University
-        details: |
-          Courses areas created and involved:
-            - CIV and Diploma in Software Development (created)
-            - Cyber Security (taught and developed)
-            - Games Development (taught and developed)
-            - Networking (taught)
-      - role: Training Analyst
-        time: 2014
-        company: Toxfree Solutions
-        details: |
-          ERP - Standardisation
-          Mulgrave, Victoria, Australia
+          Heidelberg, Victoria, Australia
+          
 projects:
     title: Projects
     intro: >
@@ -97,9 +67,6 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to keep a basic list of contacts."
 
-      - title: Train Kiosk
-        link: "#"
-        tagline: "A responsive website template designed to list trains departures from Richmond stations."
 
 skills:
     title: Skills &amp; Proficiency
