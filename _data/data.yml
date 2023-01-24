@@ -66,22 +66,17 @@ skills:
 
     toolset:
       - name: C# (ASP.NET)
-        level: 80%
+        level: 50%
 
       - name: Javascript
-        level: 80%
-
-      - name: Angular
-        level: 90%
+        level: 50%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 50%
 
       - name: React
-        level: 70%
+        level: 50%
 
-      - name: Adult Education
-        level: 95%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
