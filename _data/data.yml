@@ -20,14 +20,13 @@ sidebar:
     github: NicholasSavanjika
 
     languages:
-        
-        title: Languages
+      title: Languages
         info:
           - idiom: English
             level: Native
 
-        interests:
-        title: Interests
+    interests:
+      title: Interests
         info:
           - item: Gaming
             link:
