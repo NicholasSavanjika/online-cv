@@ -33,19 +33,15 @@ sidebar:
         - item: Building PCs
           link:
 
-        - item: Something Else
-          link:
-
-career-profile:
-    title: Career Profile
-    summary: |
-
 education:
     title: Education
     info:
       - degree: CII in Computer Assembly and Repair
         university: Melbourne Polytechnic
-        time: 2019
+        time: 2019    
+    - degree: CIV in Information Technology (Programming)
+        university: Melbourne Polytechnic
+        time: September 2022- February 2023
 
 experiences:
     title: Experiences
@@ -58,10 +54,6 @@ experiences:
           
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: PhoneBook
         link: "#hook"
